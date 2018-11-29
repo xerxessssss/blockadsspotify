@@ -10,7 +10,7 @@ then
   killall spotify
 fi
 
-#Creating a security copy of /etc/hosts
+#Creating a backup of /etc/hosts
 echo "\n\nDo you want to create a backup of 'etc/hosts'?"
 echo "Not creating a backup may cause permanent damage"
 
